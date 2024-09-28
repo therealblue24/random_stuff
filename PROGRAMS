@@ -1,0 +1,5 @@
+========= Random Programs List =========
+
+asciitest: print 256 bytes to a file in ascending order (used for internal purposes)
+roman2int: convert a roman numeral to an integer
+int2roman: convert an integer to a roman numeral
